@@ -64,4 +64,3 @@ Open for freelance work: scraping and automation projects. DM me on X: [@vantaco
 
 
 
-
