@@ -22,18 +22,14 @@ If a request fails, the script stops paging and saves the posts collected up to 
 
 ## Install
 
-```bash
-git clone https://github.com/vantacorehq/hn-scraper.git
-cd hn-scraper
-pip install -r requirements.txt
-```
+    git clone https://github.com/vantacorehq/hn-scraper.git
+    cd hn-scraper
+    pip install -r requirements.txt
 
 ## Usage
 
-```bash
-python scraper.py
-python scraper.py --pages 3 --output hn_data.csv
-```
+    python scraper.py
+    python scraper.py --pages 3 --output hn_data.csv
 
 | Option | Default | Description |
 | --- | --- | --- |
@@ -65,3 +61,7 @@ The picture shows made-up example data. A real run saves the actual posts. A sam
 ## Need a custom scraper?
 
 Open for freelance work: scraping and automation projects. DM me on X: [@vantacorehq](https://x.com/vantacorehq)
+
+
+
+
