@@ -41,7 +41,7 @@ If a request fails, the script stops paging and saves the posts collected up to 
 
 ![Example output](assets/output-example.svg)
 
-The picture shows made-up example data. A real run saves the actual posts. A sample file is in [`sample_output.csv`](sample_output.csv).
+The picture and the sample file show made-up example data. A real run saves the actual posts: [sample_output.csv](sample_output.csv).
 
 ## Project files
 
@@ -49,7 +49,7 @@ The picture shows made-up example data. A real run saves the actual posts. A sam
 | --- | --- |
 | `scraper.py` | The scraper |
 | `requirements.txt` | Dependencies: `requests`, `beautifulsoup4` |
-| `sample_output.csv` | Sample of the output format |
+| `sample_output.csv` | Sample of the output format (example data) |
 | `assets/` | Images used in this README |
 
 ## Limitations
@@ -61,6 +61,8 @@ The picture shows made-up example data. A real run saves the actual posts. A sam
 ## Need a custom scraper?
 
 Open for freelance work: scraping and automation projects. DM me on X: [@vantacorehq](https://x.com/vantacorehq)
+
+  
 
 
 
